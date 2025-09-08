@@ -1,0 +1,14 @@
+D:\Full Stack .net  DEPI\C#\demo\Taskes Eng Omnia\Task_Extention_Method_Calc\Task_Extention_Method_Calc\bin\Debug\net9.0\Task_Extention_Method_Calc.exe
+D:\Full Stack .net  DEPI\C#\demo\Taskes Eng Omnia\Task_Extention_Method_Calc\Task_Extention_Method_Calc\bin\Debug\net9.0\Task_Extention_Method_Calc.deps.json
+D:\Full Stack .net  DEPI\C#\demo\Taskes Eng Omnia\Task_Extention_Method_Calc\Task_Extention_Method_Calc\bin\Debug\net9.0\Task_Extention_Method_Calc.runtimeconfig.json
+D:\Full Stack .net  DEPI\C#\demo\Taskes Eng Omnia\Task_Extention_Method_Calc\Task_Extention_Method_Calc\bin\Debug\net9.0\Task_Extention_Method_Calc.dll
+D:\Full Stack .net  DEPI\C#\demo\Taskes Eng Omnia\Task_Extention_Method_Calc\Task_Extention_Method_Calc\bin\Debug\net9.0\Task_Extention_Method_Calc.pdb
+D:\Full Stack .net  DEPI\C#\demo\Taskes Eng Omnia\Task_Extention_Method_Calc\Task_Extention_Method_Calc\obj\Debug\net9.0\Task_Extention_Method_Calc.GeneratedMSBuildEditorConfig.editorconfig
+D:\Full Stack .net  DEPI\C#\demo\Taskes Eng Omnia\Task_Extention_Method_Calc\Task_Extention_Method_Calc\obj\Debug\net9.0\Task_Extention_Method_Calc.AssemblyInfoInputs.cache
+D:\Full Stack .net  DEPI\C#\demo\Taskes Eng Omnia\Task_Extention_Method_Calc\Task_Extention_Method_Calc\obj\Debug\net9.0\Task_Extention_Method_Calc.AssemblyInfo.cs
+D:\Full Stack .net  DEPI\C#\demo\Taskes Eng Omnia\Task_Extention_Method_Calc\Task_Extention_Method_Calc\obj\Debug\net9.0\Task_Extention_Method_Calc.csproj.CoreCompileInputs.cache
+D:\Full Stack .net  DEPI\C#\demo\Taskes Eng Omnia\Task_Extention_Method_Calc\Task_Extention_Method_Calc\obj\Debug\net9.0\Task_Extention_Method_Calc.dll
+D:\Full Stack .net  DEPI\C#\demo\Taskes Eng Omnia\Task_Extention_Method_Calc\Task_Extention_Method_Calc\obj\Debug\net9.0\refint\Task_Extention_Method_Calc.dll
+D:\Full Stack .net  DEPI\C#\demo\Taskes Eng Omnia\Task_Extention_Method_Calc\Task_Extention_Method_Calc\obj\Debug\net9.0\Task_Extention_Method_Calc.pdb
+D:\Full Stack .net  DEPI\C#\demo\Taskes Eng Omnia\Task_Extention_Method_Calc\Task_Extention_Method_Calc\obj\Debug\net9.0\Task_Extention_Method_Calc.genruntimeconfig.cache
+D:\Full Stack .net  DEPI\C#\demo\Taskes Eng Omnia\Task_Extention_Method_Calc\Task_Extention_Method_Calc\obj\Debug\net9.0\ref\Task_Extention_Method_Calc.dll
